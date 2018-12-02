@@ -11,11 +11,8 @@
 }
 .App-header{
 	background-color: ##FF4A5E;
-	height: 1px;
-	padding-top: 0px;
-	padding-right: 0px;
-	padding-left: 0px;
-	padding-bottom: 0px;
+	height: 10px;
+	padding: 0px;
 	color: #000;
 }
 .App-intro{
