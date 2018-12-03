@@ -1,0 +1,11 @@
+body {
+  background: #ececec;
+}
+#error {
+  margin: 0 auto;
+  display: block;
+}
+
+.top{
+	padding-top: 18%
+}
