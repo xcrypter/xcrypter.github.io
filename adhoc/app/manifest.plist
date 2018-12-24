@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>lk.menuka.barmagnet</string>
+				<string>com.tweakbox.BarMagnetUITests</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>0.33.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Barmagnet</string>
+				<string>BarMagnet</string>
 			</dict>
 		</dict>
 	</array>
