@@ -13,4 +13,4 @@ A tool for encrypt and decrypt messages.
 
 ## Authors
 
-* **Menuka Rathnayake** - *Initial work* - [Xenonstaforums](https://github.com/Xenonstaforums)
+*Initial work* - [Xenonstaforums](https://github.com/Xenonstaforums)
